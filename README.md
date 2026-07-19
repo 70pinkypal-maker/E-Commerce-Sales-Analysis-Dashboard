@@ -79,19 +79,20 @@ README.md
 
 ## 📸 Dashboard Preview
 ### EXecutive Overview
-![Executive Overview](dashboard1.png)
+![Executive Overview](dashboard1.png.png)
 
 
 ### Sales Analysis Dashboard
-![Sales Analysis](dashboard2.png)
+![Sales Analysis](dashboard2.png.png)
 
 
 ### Product & Customer insights
-![Product & Customer Insights](dashboard3.png)
+![Product & Customer Insights](dashboard3.png.png)
 
 
 
-
+### Overview
+![Final Overview](dashboard4.png.png)
 
 
 
